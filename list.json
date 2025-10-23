@@ -3,7 +3,7 @@
     "kaynak": "json",
     "name": "Vavoo.to",
     "url": "https://vavoo.to/channels",
-    "userAgent": "IPTVSmartersPlayer",
+    "userAgent": "vavoo/2.2",
     "referer": "vavoo.to"
   },
     {
