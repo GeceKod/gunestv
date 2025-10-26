@@ -1,10 +1,8 @@
 [
   {
-    "kaynak": "json",
+    "kaynak": "m3u8",
     "name": "Vavoo.to",
-    "url": "https://vavoo.to/channels",
-    "userAgent": "vavoo/2.2",
-    "referer": "vavoo.to"
+    "url": "https://raw.githubusercontent.com/Oktay2617/trvip6/refs/heads/main/vavoo_kanallar.m3u8"
   },
     {
     "kaynak": "m3u8",
