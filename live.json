@@ -2,7 +2,7 @@
   {
     "kaynak": "m3u8",
     "name": "Vavoo.to",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip6/refs/heads/main/vavoo_kanallar.m3u8",
+    "url": "https://raw.githubusercontent.com/GeceKod/trvip6/refs/heads/main/vavoo_kanallar.m3u8",
     "referer": "https://vavoo.to/",
     "origin": "https://vavoo.to",
     "user-agent": "vavoo/2.6"
@@ -10,39 +10,32 @@
     {
     "kaynak": "m3u8",
     "name": "Tr Goals",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip/refs/heads/main/kanallar.m3u8"
+    "url": "https://raw.githubusercontent.com/GeceKod/trvip/refs/heads/main/kanallar.m3u8"
   },
     {
     "kaynak": "m3u8",
     "name": "SelcukSports",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip2/refs/heads/main/selcuksports_kanallar.m3u8"
+    "url": "https://raw.githubusercontent.com/GeceKod/trvip2/refs/heads/main/selcuksports_kanallar.m3u8"
   },
     {
     "kaynak": "m3u8",
     "name": "XyzSports",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip3/refs/heads/main/xyzsports_kanallar.m3u8"
+    "url": "https://raw.githubusercontent.com/GeceKod/trvip3/refs/heads/main/xyzsports_kanallar.m3u8"
   },
     {
     "kaynak": "m3u8",
     "name": "Taraftarium24",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip4/refs/heads/main/taraftarium24_kanallar.m3u8"
+    "url": "https://raw.githubusercontent.com/GeceKod/trvip4/refs/heads/main/taraftarium24_kanallar.m3u8"
   },
     {
     "kaynak": "m3u8",
     "name": "Tvjustin",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip5/refs/heads/main/justintv_kanallar.m3u8"
+    "url": "https://raw.githubusercontent.com/GeceKod/trvip5/refs/heads/main/justintv_kanallar.m3u8"
   },
     {
     "kaynak": "m3u8",
-    "name": "Maxim",
+    "name": "MaximTR",
     "url": "https://raw.githubusercontent.com/GeceKod/gunestv/refs/heads/main/max.m3u8"
-  },
-  {
-    "kaynak": "xtream",
-    "name": "Goldvod",
-    "url": "https://goldvod.org",
-    "username": "hpgdiscoo",
-    "password": "123456",
-    "userAgent": "IPTVSmartersPlayer"
   }
+
 ]
