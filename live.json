@@ -31,11 +31,5 @@
     "kaynak": "m3u8",
     "name": "Tvjustin",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8"
-  },
-    {
-    "kaynak": "m3u8",
-    "name": "MaximTR",
-    "url": "https://raw.githubusercontent.com/GeceKod/gunestv/refs/heads/main/max.m3u8"
-  }
-
+    }
 ]
