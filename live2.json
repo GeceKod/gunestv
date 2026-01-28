@@ -1,35 +1,41 @@
 [
   {
-    "kaynak": "xtream",
-    "name": "Goldvod",
-    "url": "https://goldvod.org",
-    "username": "hpgdiscoo",
-    "password": "123456",
-    "userAgent": "IPTVSmartersPlayer",
-    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. hpgdisco tarafından yapılmıştır. Kendisine teşekkürler"
+    "kaynak": "m3u8",
+    "name": "Vavoo.to",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar6.m3u8",
+    "referer": "https://vavoo.to/",
+    "origin": "https://vavoo.to",
+    "user-agent": "vavoo/2.6",
+    "description": "Dünya genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
   },
     {
     "kaynak": "m3u8",
-    "name": "PowerSinema",
-    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u",
-    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. hpgdisco tarafından yapılmıştır. Kendisine teşekkürler"
+    "name": "Tr Goals",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8",
+    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
   },
-  {
-    "kaynak": "xtream",
-    "name": "Nox Panel",
-    "url": "http://bafn2025.cfd:80",
-    "username": "yasersuleymanoglu",
-    "password": "cqKWGhLyG5",
-    "userAgent": "IPTVSmartersPlayer",
-    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. hpgdisco tarafından yapılmıştır. Kendisine teşekkürler"
+    {
+    "kaynak": "m3u8",
+    "name": "SelcukSports",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar2.m3u8",
+    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar SelcukSports sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
   },
-  {
-    "kaynak": "xtream",
-    "name": "Maxim Panel",
-    "url": "http://zafertv85.shop:8080",
-    "username": "mh9660",
-    "password": "3JSp7yJSkYEE",
-    "userAgent": "IPTVSmartersPlayer",
-    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. hpgdisco tarafından yapılmıştır. Kendisine teşekkürler"
-  }
+    {
+    "kaynak": "m3u8",
+    "name": "XyzSports",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar3.m3u8",
+    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar XyzSports sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "Taraftarium24",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar4.m3u8",
+    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Taraftarium24 sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "Tvjustin",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8",
+    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Tvjustin sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+    }
 ]
