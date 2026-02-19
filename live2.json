@@ -46,5 +46,12 @@
     "origin": "https://www.dsmartgo.com.tr",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
     "description": "D Smart Go yayınlarını içermektedir. TR ulusal, belegesel, dizi film kanalları, haber,spor gibi kategoriler mevcuttur . Yayınlar illegal sayılabilir, kullanıcı sorumluluğundadır."
-    }
+    },
+  {
+    "kaynak": "mac",
+    "name": "My STB",
+    "url": "http://300300.org/c/",
+    "mac": "00:1A:79:FB:70:56",
+    "user-agent": "MAG200 stbapp"
+}
   ]
