@@ -50,7 +50,7 @@
   {
     "kaynak": "mac",
     "name": "My STB",
-    "url": "http://line.iptveros.com",
+    "url": "http://line.iptveros.com:80",
     "mac": "00:1A:79:C2:B2:30"
 }
   ]
