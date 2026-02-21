@@ -52,5 +52,11 @@
     "name": "My STB",
     "url": "http://line.iptveros.com:80",
     "mac": "00:1A:79:C2:B2:30"
+},
+  {
+    "kaynak": "mac",
+    "name": "My STB",
+    "url": "http://300300.org/c/",
+    "mac": "00:1A:79:B1:13:07"
 }
   ]
