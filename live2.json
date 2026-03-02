@@ -10,24 +10,6 @@
   },
     {
     "kaynak": "m3u8",
-    "name": "Tr Goals",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8",
-    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
-    {
-    "kaynak": "m3u8",
-    "name": "SelcukSports",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar2.m3u8",
-    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar SelcukSports sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
-    {
-    "kaynak": "m3u8",
-    "name": "XyzSports",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar3.m3u8",
-    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar XyzSports sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
-    {
-    "kaynak": "m3u8",
     "name": "Taraftarium24",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar4.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Taraftarium24 sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
@@ -37,26 +19,5 @@
     "name": "Tvjustin",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Tvjustin sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-    },
-  {
-    "kaynak": "json",
-    "name": "DSmartGo",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/smart.json",
-    "referer": "https://www.dsmartgo.com.tr/",
-    "origin": "https://www.dsmartgo.com.tr",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "description": "D Smart Go yayınlarını içermektedir. TR ulusal, belegesel, dizi film kanalları, haber,spor gibi kategoriler mevcuttur . Yayınlar illegal sayılabilir, kullanıcı sorumluluğundadır."
-    },
-  {
-    "kaynak": "mac",
-    "name": "My STB",
-    "url": "http://line.iptveros.com:80",
-    "mac": "00:1A:79:C2:B2:30"
-},
-  {
-    "kaynak": "mac",
-    "name": "My STB 2",
-    "url": "http://300300.org/c/",
-    "mac": "00:1A:79:B1:13:07"
-}
+    }
   ]
