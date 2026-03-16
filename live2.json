@@ -1,18 +1,4 @@
 [
-  {
-    "kaynak": "m3u8",
-    "name": "Vavoo.to",
-    "url": "https://raw.githubusercontent.com/GeceKod/vivii/refs/heads/main/vavoo_full.m3u",
-    "user-agent": "libmpv",
-    "description": "Dünya genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "Vavoo_Turkey",
-    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Turkey.m3u8",
-    "user-agent": "libmpv",
-    "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
     {
     "kaynak": "m3u8",
     "name": "Taraftarium24",
@@ -24,5 +10,166 @@
     "name": "Tvjustin",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Tvjustin sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-    }
+    },
+   {
+    "kaynak": "m3u8",
+    "name": "Vavoo.to",
+    "url": "https://raw.githubusercontent.com/GeceKod/vivii/refs/heads/main/vavoo_full.m3u",
+    "user-agent": "libmpv",
+    "description": "Dünya genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Afganistan",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Afghanistan.m3u8",
+    "user-agent": "libmpv",
+    "description": "Afganistan genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Albania",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Albania.m3u8",
+    "user-agent": "libmpv",
+    "description": "Albania genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Algeria",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Algeria.m3u8",
+    "user-agent": "libmpv",
+    "description": "Algeria genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Arabia",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Arabia.m3u8",
+    "user-agent": "libmpv",
+    "description": "Arabia genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Argentina",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Argentina.m3u8",
+    "user-agent": "libmpv",
+    "description": "Argentina genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Australia",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Australia.m3u8",
+    "user-agent": "libmpv",
+    "description": "Australia genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Austria",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Austria.m3u8",
+    "user-agent": "libmpv",
+    "description": "Austria genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Bahrain",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Bahrain.m3u8",
+    "user-agent": "libmpv",
+    "description": "Bahrain genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Balkans",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Balkans.m3u8",
+    "user-agent": "libmpv",
+    "description": "Balkans genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Bangladesh",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Bangladesh.m3u8",
+    "user-agent": "libmpv",
+    "description": "Bangladesh genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Belgium",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Belgium.m3u8",
+    "user-agent": "libmpv",
+    "description": "Belgium genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Bolivia",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Bolivia.m3u8",
+    "user-agent": "libmpv",
+    "description": "Bolivia genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Bosnia_and_Herzegovina",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Bosnia_and_Herzegovina.m3u8",
+    "user-agent": "libmpv",
+    "description": "Bosnia_and_Herzegovina genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Brazil",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Brazil.m3u8",
+    "user-agent": "libmpv",
+    "description": "Brazil genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Bulgaria",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Bulgaria.m3u8",
+    "user-agent": "libmpv",
+    "description": "Bulgaria genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Burkina_Faso",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Burkina_Faso.m3u8",
+    "user-agent": "libmpv",
+    "description": "Burkina_Faso genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Canada",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Canada.m3u8",
+    "user-agent": "libmpv",
+    "description": "Canada genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Chile",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Chile.m3u8",
+    "user-agent": "libmpv",
+    "description": "Chile genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_China",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_China.m3u8",
+    "user-agent": "libmpv",
+    "description": "China genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Colombia",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Colombia.m3u8",
+    "user-agent": "libmpv",
+    "description": "Colombia genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Costa_Rica",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Costa_Rica.m3u8",
+    "user-agent": "libmpv",
+    "description": "Costa_Rica genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Vavoo_Croatia",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Croatia.m3u8",
+    "user-agent": "libmpv",
+    "description": "Croatia genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+  }
   ]
