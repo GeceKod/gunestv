@@ -17,18 +17,6 @@
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
-     {
-    "kaynak": "m3u8",
-    "name": "SelçukSports",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar2.m3u8",
-    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar SelçukSports sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-    },
-    {
-    "kaynak": "m3u8",
-    "name": "XyzSports",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar3.m3u8",
-    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar XyzSports sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-    },
    {
     "kaynak": "m3u8",
     "name": "Vavoo.to",
